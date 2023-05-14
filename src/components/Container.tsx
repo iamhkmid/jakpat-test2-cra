@@ -138,6 +138,8 @@ const ContainerStyled = styled.div`
     .header-right {
       display: none;
       .header-button {
+        font-size: 15px;
+        font-weight: 500;
         background-color: transparent;
         border: none;
         color: #4679a8;
@@ -159,7 +161,7 @@ const ContainerStyled = styled.div`
     display: flex;
     margin-top: 100px;
     flex-direction: column;
-    padding: 60px;
+    padding: 20px;
     gap: 20px;
     box-sizing: border-box;
     
