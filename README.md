@@ -2,7 +2,7 @@
 
 This project was build with React JS
 
-Open:  [link](jakpat-test2-luqman.vercel.app) to view deployment web.
+Open:  [link](jakpat-test2-luqman.vercel.app){:target="_blank"} to view deployment web.
 
 ## Available Scripts
 
