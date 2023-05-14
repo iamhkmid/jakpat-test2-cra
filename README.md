@@ -2,7 +2,7 @@
 
 This project was build with React JS
 
-Open:  [jakpat-test2-luqman-5pm915dj8-iamhkmid.vercel.app](link) to view deployment web.
+Open:  [jakpat-test2-luqman.vercel.app](link) to view deployment web.
 
 ## Available Scripts
 
